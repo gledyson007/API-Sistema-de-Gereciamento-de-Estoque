@@ -130,7 +130,6 @@ A documentação completa dos endpoints e seus parâmetros pode ser explorada at
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]**.
+Desenvolvido por **Gledyson Cruz**.
 
-- **LinkedIn:** `https://linkedin.com/in/seu-linkedin`
 - **GitHub:** `https://github.com/seu-usuario`
