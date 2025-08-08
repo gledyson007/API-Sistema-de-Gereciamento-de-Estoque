@@ -132,4 +132,4 @@ A documentação completa dos endpoints e seus parâmetros pode ser explorada at
 
 Desenvolvido por **Gledyson Cruz**.
 
-- **GitHub:** `https://github.com/seu-usuario`
+- **GitHub:** `https://github.com/gledyson007`
